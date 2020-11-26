@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="fastdfs-client-java" />
+        <module name="fastdfs-client-java (1)" />
+        <module name="gmall-item-web" />
+        <module name="gmallinterface" />
+        <module name="mall-manage-service" />
+        <module name="mall-manage-web" />
+        <module name="mall-order-web" />
+        <module name="mallbean" />
+        <module name="mallutilcommon" />
+        <module name="mallutilservice" />
+        <module name="mallutilweb" />
+        <module name="user-manager" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="fastdfs-client-java" target="1.8" />
+      <module name="fastdfs-client-java (1)" target="1.6" />
+      <module name="gmall-item-web" target="1.8" />
+      <module name="gmallinterface" target="1.8" />
+      <module name="mall-manage-service" target="1.8" />
+      <module name="mall-manage-web" target="1.8" />
+      <module name="mall-order-web" target="1.8" />
+      <module name="mallbean" target="1.8" />
+      <module name="mallparent" target="1.8" />
+      <module name="mallutilcommon" target="1.8" />
+      <module name="mallutilservice" target="1.8" />
+      <module name="mallutilweb" target="1.8" />
+      <module name="user-manager" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

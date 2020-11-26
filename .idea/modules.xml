@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/fastdfs-client-java-master/fastdfs-client-java.iml" filepath="$PROJECT_DIR$/fastdfs-client-java-master/fastdfs-client-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-item-web/gmall-item-web.iml" filepath="$PROJECT_DIR$/gmall-item-web/gmall-item-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmallinterface/gmallinterface.iml" filepath="$PROJECT_DIR$/gmallinterface/gmallinterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-manage-service/mall-manage-service.iml" filepath="$PROJECT_DIR$/mall-manage-service/mall-manage-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-manage-web/mall-manage-web.iml" filepath="$PROJECT_DIR$/mall-manage-web/mall-manage-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-order-web/mall-order-web.iml" filepath="$PROJECT_DIR$/mall-order-web/mall-order-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mallbean/mallbean.iml" filepath="$PROJECT_DIR$/mallbean/mallbean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mallparent/mallparent.iml" filepath="$PROJECT_DIR$/mallparent/mallparent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mallutilcommon/mallutilcommon.iml" filepath="$PROJECT_DIR$/mallutilcommon/mallutilcommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mallutilservice/mallutilservice.iml" filepath="$PROJECT_DIR$/mallutilservice/mallutilservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mallutilweb/mallutilweb.iml" filepath="$PROJECT_DIR$/mallutilweb/mallutilweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pengjvmall.iml" filepath="$PROJECT_DIR$/.idea/pengjvmall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-manager/user-manager.iml" filepath="$PROJECT_DIR$/user-manager/user-manager.iml" />
+    </modules>
+  </component>
+</project>

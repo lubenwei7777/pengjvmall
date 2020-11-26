@@ -3,6 +3,7 @@ package com.pengjv.gmall.service;
 import com.pengjv.gmall.bean.*;
 
 import java.util.List;
+import java.util.Map;
 
 public interface ManageService {
 
@@ -27,10 +28,30 @@ public interface ManageService {
     //根据平台属性id查询平台属性详情
     List<BaseAttrValue> getAttrValueList(String attrId);
 
+    //获得基本销售属性
+    List<BaseSaleAttr> getBaseSaleAttrList();
 
-    //删除平台属性
 
 
+    //保存spu
+    void saveSpuInfo(SpuInfo spuInfo);
 
-    //
+    List<SpuInfo> getSpuListByCataId(String catalog3Id);
+
+    List<SpuImage> getSpuImageListBySpuId(String spuId);
+
+    List<SpuSaleAttr> getSpuSaleAttrListBySpuId(String spuId);
+
+    void saveSkuInfo(SkuInfo skuInfo);
+
+
+    //查询sku info
+    SkuInfo getSkuInfo(String skuId);
+
+
+    List<SpuSaleAttr> getSpuSaleAttrListBySpuIdCheckSku(String skuId, String spuId);
+
+
+    //根据spuId查询已有的spu涉及的sku销售属性值清单
+    public Map getSkuValueIdsMap(String spuId);
 }
